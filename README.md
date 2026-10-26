@@ -92,7 +92,7 @@ Suggestions, improvements, and contributions are welcome!
 
 ## 📄 License
 
-No license has been specified yet.
+MIT License
 
 ---
 
